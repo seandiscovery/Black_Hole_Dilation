@@ -14,3 +14,8 @@ This code is very simple, and is included in time_dilation.py. The iPython noteb
 
 The file massive_particle.py is setup for a more sophisticated black hole simulation tool. Ideally, we'd like to simulate the gravitational potential of a Schw. black hole, making a simple animation showing (a) the trajectory of a particle with a given initial velocity around the black hole, and (b) a trace of the time dilation of this particle, relative to a fixed observer at a large distance from the black hole. 
 
+# References 
+
+Stanford EPGY, https://web.stanford.edu/~oas/SI/SRGR/notes/SRGRLect9B_2013.pdf
+Wikipedia: https://en.wikipedia.org/wiki/Schwarzschild_metric, https://en.wikipedia.org/wiki/Time_dilation#cite_note-ashby02-38
+
