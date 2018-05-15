@@ -1,5 +1,11 @@
 # Modeling relativistic effects near a Schwarzschild black hole
 
+# Milestone One 
+
+All code is up-to-date on the github at https://github.com/seanDiscovery/Black_Hole_Dilation. 
+
+# Project Overview 
+
 Explore how gravitational time dilation and time dilation from relativistic speeds interact for a massive particle near a Schwarzschild black hole. 
 
 Initially, we'll compare the following systems: 
