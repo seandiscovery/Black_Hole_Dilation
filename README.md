@@ -26,3 +26,5 @@ Stanford EPGY, https://web.stanford.edu/~oas/SI/SRGR/notes/SRGRLect9B_2013.pdf
 
 Wikipedia: https://en.wikipedia.org/wiki/Schwarzschild_metric, https://en.wikipedia.org/wiki/Time_dilation#cite_note-ashby02-38
 
+Matplotlib docs: https://matplotlib.org/api/_as_gen/matplotlib.animation.FuncAnimation.html, https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
+
