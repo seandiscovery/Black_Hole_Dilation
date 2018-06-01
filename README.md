@@ -1,10 +1,6 @@
-# Modeling relativistic effects near a Schwarzschild black hole
+# Modeling relativistic effects near a Schwarzschild black hole #
 
-# Milestone One 
-
-All code is up-to-date on the github at https://github.com/seanDiscovery/Black_Hole_Dilation. 
-
-# Project Overview 
+## Project Overview ##
 
 Explore how gravitational time dilation and time dilation from relativistic speeds interact for a massive particle near a Schwarzschild black hole. 
 
@@ -20,7 +16,7 @@ This code is very simple, and is included in time_dilation.py. The iPython noteb
 
 The file massive_particle.py is setup for a more sophisticated black hole simulation tool. Ideally, we'd like to simulate the gravitational potential of a Schw. black hole, making a simple animation showing (a) the trajectory of a particle with a given initial velocity around the black hole, and (b) a trace of the time dilation of this particle, relative to a fixed observer at a large distance from the black hole. 
 
-# References 
+## References ##
 
 Stanford EPGY: https://web.stanford.edu/~oas/SI/SRGR/notes/SRGRLect9B_2013.pdf
 
