@@ -4,7 +4,7 @@
 
 Explore how gravitational time dilation and time dilation from relativistic speeds interact for a massive particle near a Schwarzschild black hole. 
 
-Initially, we'll compare the following systems: 
+We compare the following systems: 
 
 -A particle at rest a distance r from the event horizon of a Schw. black hole 
 
@@ -12,9 +12,11 @@ Initially, we'll compare the following systems:
 
 -A particle moving at a radial relativstic speed at an instantaneous distance r from the EH of a Schw. black hole 
 
-This code is very simple, and is included in time_dilation.py. The iPython notebook time_dilation_test has some simple plots that shows the relative strength of these effects for the same particle. 
+The basic code for this comparison is simple, and is included in time_dilation.py. The actual plots are included in both time_dilation_test.ipynb (scratch notebook for developing project) and Physics_91SI_Final_Presentation.ipynb (final notebook for the in-class presentation), both included in the folder Python_Notebooks. 
 
-The file massive_particle.py is setup for a more sophisticated black hole simulation tool. Ideally, we'd like to simulate the gravitational potential of a Schw. black hole, making a simple animation showing (a) the trajectory of a particle with a given initial velocity around the black hole, and (b) a trace of the time dilation of this particle, relative to a fixed observer at a large distance from the black hole. 
+A class for constructing 3d plots of the time dilation surface near a SBH, as well as basic animations of how this surface changes with various variables, is defined in blackHole_animation.py. Tests of the plotting functions defined in this class are included in the folder Test_Functions. Since animations don't run in Jupyter notebooks, the file presentation_animations.py contains a script to run the relevant animations from the command line. 
+
+NOTE: If you run the code locally, I suggest unpacking all files into one folder. The code has not yet been corrected to account for the new folders Test_Functions and Python_Notebooks; these were included to organize the repository.  
 
 ## References ##
 
